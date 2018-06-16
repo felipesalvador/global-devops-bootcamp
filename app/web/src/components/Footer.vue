@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Salvador
+        Felipe Salvador
       </div>
       <div class="col-lg-6">
       </div>
